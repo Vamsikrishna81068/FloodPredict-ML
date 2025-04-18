@@ -23,7 +23,7 @@ The dataset contains historical weather and environmental data:
 - Humidity (%)
 - River water levels (m)
 
-Add your dataset to the `data/` folder or use the provided dataset: [https://github.com/Vamsikrishna81068/FloodPredict-ML/blob/main/Flood%20Predict-ML/Code/demo.csv](#).
+use the provided dataset: [https://github.com/Vamsikrishna81068/FloodPredict-ML/blob/main/Flood%20Predict-ML/Code/demo.csv](#).
 
 ---
 
@@ -31,3 +31,11 @@ Add your dataset to the `data/` folder or use the provided dataset: [https://git
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/FloodPredict-ML.git
+
+   ## Contact
+
+For questions or feedback, feel free to reach out:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
+- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
