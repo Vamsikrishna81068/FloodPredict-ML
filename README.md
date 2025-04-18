@@ -36,6 +36,5 @@ use the provided dataset: [https://github.com/Vamsikrishna81068/FloodPredict-ML/
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: [your-email@example.com](mailto:vamsikrishna81068@gmail.com)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mohan-vamsi-krishna-k-207434201/)  
